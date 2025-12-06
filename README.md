@@ -8,3 +8,4 @@ ID_Echantillon,Espece_Plante,Site_Echantillonnage,Hauteur_moyenne_cm,Date_Recolt
 ## Méthodologie
 Les données proviennent d'une récolte effectuée sur le site de Champ_A et Serre_1, analysant la croissance des plants d'Arabidopsis thaliana et Zea mays.
 
+Ceci est une modification expérimentale dans la branche 'analyse-test'.
